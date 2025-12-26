@@ -1,0 +1,34 @@
+C:\Users\n9zt\Desktop\Pac Man\Game\Pac Man\Pac Man\bin\Debug\net8.0-windows\Pac Man.exe
+C:\Users\n9zt\Desktop\Pac Man\Game\Pac Man\Pac Man\bin\Debug\net8.0-windows\Pac Man.deps.json
+C:\Users\n9zt\Desktop\Pac Man\Game\Pac Man\Pac Man\bin\Debug\net8.0-windows\Pac Man.runtimeconfig.json
+C:\Users\n9zt\Desktop\Pac Man\Game\Pac Man\Pac Man\bin\Debug\net8.0-windows\Pac Man.dll
+C:\Users\n9zt\Desktop\Pac Man\Game\Pac Man\Pac Man\bin\Debug\net8.0-windows\Pac Man.pdb
+C:\Users\n9zt\Desktop\Pac Man\Game\Pac Man\Pac Man\obj\Debug\net8.0-windows\Pac_Man.Form1.resources
+C:\Users\n9zt\Desktop\Pac Man\Game\Pac Man\Pac Man\obj\Debug\net8.0-windows\Pac_Man.Properties.Resources.resources
+C:\Users\n9zt\Desktop\Pac Man\Game\Pac Man\Pac Man\obj\Debug\net8.0-windows\Pac Man.csproj.GenerateResource.cache
+C:\Users\n9zt\Desktop\Pac Man\Game\Pac Man\Pac Man\obj\Debug\net8.0-windows\Pac Man.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\n9zt\Desktop\Pac Man\Game\Pac Man\Pac Man\obj\Debug\net8.0-windows\Pac Man.AssemblyInfoInputs.cache
+C:\Users\n9zt\Desktop\Pac Man\Game\Pac Man\Pac Man\obj\Debug\net8.0-windows\Pac Man.AssemblyInfo.cs
+C:\Users\n9zt\Desktop\Pac Man\Game\Pac Man\Pac Man\obj\Debug\net8.0-windows\Pac Man.csproj.CoreCompileInputs.cache
+C:\Users\n9zt\Desktop\Pac Man\Game\Pac Man\Pac Man\obj\Debug\net8.0-windows\Pac Man.dll
+C:\Users\n9zt\Desktop\Pac Man\Game\Pac Man\Pac Man\obj\Debug\net8.0-windows\refint\Pac Man.dll
+C:\Users\n9zt\Desktop\Pac Man\Game\Pac Man\Pac Man\obj\Debug\net8.0-windows\Pac Man.pdb
+C:\Users\n9zt\Desktop\Pac Man\Game\Pac Man\Pac Man\obj\Debug\net8.0-windows\Pac Man.genruntimeconfig.cache
+C:\Users\n9zt\Desktop\Pac Man\Game\Pac Man\Pac Man\obj\Debug\net8.0-windows\ref\Pac Man.dll
+C:\Users\n9zt\Desktop\Pac Man\Pac Man\bin\Debug\net8.0-windows\Pac Man.exe
+C:\Users\n9zt\Desktop\Pac Man\Pac Man\bin\Debug\net8.0-windows\Pac Man.deps.json
+C:\Users\n9zt\Desktop\Pac Man\Pac Man\bin\Debug\net8.0-windows\Pac Man.runtimeconfig.json
+C:\Users\n9zt\Desktop\Pac Man\Pac Man\bin\Debug\net8.0-windows\Pac Man.dll
+C:\Users\n9zt\Desktop\Pac Man\Pac Man\bin\Debug\net8.0-windows\Pac Man.pdb
+C:\Users\n9zt\Desktop\Pac Man\Pac Man\obj\Debug\net8.0-windows\Pac_Man.Form1.resources
+C:\Users\n9zt\Desktop\Pac Man\Pac Man\obj\Debug\net8.0-windows\Pac_Man.Properties.Resources.resources
+C:\Users\n9zt\Desktop\Pac Man\Pac Man\obj\Debug\net8.0-windows\Pac Man.csproj.GenerateResource.cache
+C:\Users\n9zt\Desktop\Pac Man\Pac Man\obj\Debug\net8.0-windows\Pac Man.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\n9zt\Desktop\Pac Man\Pac Man\obj\Debug\net8.0-windows\Pac Man.AssemblyInfoInputs.cache
+C:\Users\n9zt\Desktop\Pac Man\Pac Man\obj\Debug\net8.0-windows\Pac Man.AssemblyInfo.cs
+C:\Users\n9zt\Desktop\Pac Man\Pac Man\obj\Debug\net8.0-windows\Pac Man.csproj.CoreCompileInputs.cache
+C:\Users\n9zt\Desktop\Pac Man\Pac Man\obj\Debug\net8.0-windows\Pac Man.dll
+C:\Users\n9zt\Desktop\Pac Man\Pac Man\obj\Debug\net8.0-windows\refint\Pac Man.dll
+C:\Users\n9zt\Desktop\Pac Man\Pac Man\obj\Debug\net8.0-windows\Pac Man.pdb
+C:\Users\n9zt\Desktop\Pac Man\Pac Man\obj\Debug\net8.0-windows\Pac Man.genruntimeconfig.cache
+C:\Users\n9zt\Desktop\Pac Man\Pac Man\obj\Debug\net8.0-windows\ref\Pac Man.dll
